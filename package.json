@@ -1,0 +1,27 @@
+{
+  "name": "fin-assistant",
+  "version": "1.0.0",
+  "description": "Financial assistant that updates your spreadsheets when you provide the data",
+  "keywords": [
+    "AI"
+  ],
+  "homepage": "https://github.com/AlanSecundo/fin-assistant#readme",
+  "bugs": {
+    "url": "https://github.com/AlanSecundo/fin-assistant/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanSecundo/fin-assistant.git"
+  },
+  "license": "MIT",
+  "author": "alan.secundo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.11",
+    "typescript": "^7.0.2"
+  }
+}
